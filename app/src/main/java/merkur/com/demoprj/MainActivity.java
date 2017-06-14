@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //feature x ,y & z added
 
         //Master feature 23
+		
+		//comment added
     }
 }
