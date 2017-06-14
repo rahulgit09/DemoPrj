@@ -13,6 +13,13 @@ public class MainActivity extends AppCompatActivity {
 
         //Master feature 23
 		
-		//comment added
+		
     }
+	
+	@Override
+    protected void Task(Bundle savedInstanceState) {
+        
+		
+    }
+	
 }
